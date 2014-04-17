@@ -41,6 +41,6 @@
     "traceur"
   ],
   "dependencies": {
-    "traceur": "~0.0.33"
+    "traceur": "0.0.6"
   }
 }
